@@ -28,6 +28,5 @@
 
 
 ### Featured Projects:
-- [Project 1](link-do-projeto): Brief description of the project
-- [Project 2](link-do-projeto): Brief description of the project
+- [Project 1]([link-do-projeto](https://github.com/devHyrum/User-Management-and-Blogging-API)): User management and blogging API
 
