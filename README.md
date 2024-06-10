@@ -2,8 +2,6 @@
 
 🔍 Looking for my first FullStack development internship
 
-🌱 Always learning and improving
-
 💬 I speak Portuguese and Spanish
 
 
