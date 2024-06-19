@@ -20,6 +20,8 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
 )
 
+<img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=plastic&logo=vite&logoColor=white" style="width: 80px"/>
+
 ### Let's connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyrum-spencer-olivera-fernandez-13ba2622b/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_hyrumolivera_/)
