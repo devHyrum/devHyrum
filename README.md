@@ -5,7 +5,7 @@
 💬 I speak Portuguese and Spanish
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devHyrum&layout=compact&langs_count=16&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devHyrum&layout=compact&langs_count=24&theme=dark)
 
 ### Technologies and Tools:
 
