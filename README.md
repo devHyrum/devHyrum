@@ -1,16 +1,12 @@
-## Hi there! I'm Hyrum 👋
+## About Me 👋
 
-🔍 Looking for my first FullStack development internship
+🔭 Looking for my first FullStack development internship<br>💬 I speak Portuguese and Spanish<br>👯 I'm looking to collaborate on a project
 
-💬 I speak Portuguese and Spanish
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devHyrum&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devHyrum&layout=compact&langs_count=30&theme=dark)
-
-### Technologies and Tools:
-
-
+### 💻 Technologies and Tools
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-1E262E?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
@@ -31,8 +27,13 @@
 ![FireBase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=devHyrum&theme=dark&hide_border=false)
+
 ### Let's connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyrum-spencer-olivera-fernandez/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_hyrumolivera_/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:holivera0730@gmail.com)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
