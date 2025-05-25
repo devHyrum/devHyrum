@@ -2,7 +2,7 @@
 
 🔭 Looking for my first FullStack development internship<br>💬 I speak Portuguese and Spanish<br>👯 I'm looking to collaborate on a project
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devHyrum&langs_count=8&layout=compact&theme=dark&hide_border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devHyrum&langs_count=10&layout=compact&theme=dark&hide_border=false)
 
 ### 💻 Technologies and Tools
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
